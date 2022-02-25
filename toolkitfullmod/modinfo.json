@@ -1,0 +1,13 @@
+[
+    {
+      "type": "MOD_INFO",
+      "id": "toolkitfull",
+      "name": "ToolKitFull",
+      "authors": [ "cahilcat" ],
+      "maintainers": [ "cahilcat" ],
+      "description": "a simple mod but that will serve you a lot",
+      "category": "content",
+      "dependencies": [ "dda" ]
+    }
+  ]
+  

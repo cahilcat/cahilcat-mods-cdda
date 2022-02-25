@@ -1,0 +1,221 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "toolkitsuperfull",
+    "symbol": ";",
+    "color": "white",
+    "name": {
+      "str": "toolkit full"
+    },
+    "description": "a complete toolbox with all the necessary tools for your fabrications",
+    "category": "tools",
+    "price": 1000,
+    "material": "bone",
+    "weight": "150 g",
+    "volume": "100 ml",
+    "longest_side": "20 cm",
+    "bashing": 3,
+    "to_hit": 5,
+    "qualities": [
+      [
+        "PUNCH",
+        4
+      ],
+      [
+        "ROPE",
+        4
+      ],
+      [
+        "CHEM",
+        4
+      ],
+      [
+        "SEW_CURVED",
+        4
+      ],
+      [
+        "LEATHER_AWL",
+        4
+      ],
+      [
+        "SUSPENDING",
+        4
+      ],
+      [
+        "SEW",
+        4
+      ],
+      [
+        "KNIT",
+        4
+      ],
+      [
+        "HAMMER",
+        4
+      ],
+      [
+        "SURFACE",
+        4
+      ],
+      [
+        "GRIND",
+        4
+      ],
+      [
+        "SAW_M",
+        4
+      ],
+      [
+        "WRENCH",
+        4
+      ],
+      [
+        "HAMMER_FINE",
+        4
+      ],
+
+      [
+        "JACK",
+        4
+      ],
+      [
+        "SAW_M_FINE",
+        4
+      ],
+      [
+        "SCREW_FINE",
+        4
+      ],
+      [
+        "CHISEL",
+        4
+      ],
+      [
+        "CHISEL_WOOD",
+        4
+      ],
+      [
+        "VISE",
+        4
+      ],
+      [
+        "WRENCH_FINE",
+        4
+      ],
+      [
+        "WHEEL_FAST",
+        4
+      ],
+      [
+        "SMOOTH",
+        4
+      ],
+      [
+        "DRILL",
+        4
+      ],
+      [
+        "CUT",
+        10
+      ],
+      [
+        "CUT_FINE",
+        10
+      ],
+      [
+        "BUTCHER",
+        60
+      ],
+      [
+        "DRILL_ROCK",
+        4
+      ],
+      [
+        "SMOKE_PIPE",
+        4
+      ],
+      [
+        "PULL",
+        4
+      ],
+      [
+        "DIG",
+        8
+      ],
+      [
+        "COOK",
+        4
+      ],
+      [
+        "CONTAIN",
+        4
+      ],
+      [
+        "ANVIL",
+        4
+      ],
+
+      [
+        "AXE",
+        4
+      ],
+      [
+        "SAW_W",
+        4
+      ],
+      [
+        "FABRIC_CUT",
+        4
+      ],
+      [
+        "SCREW",
+        4
+      ],
+      [
+        "DISTILL",
+        4
+      ],
+      [
+        "EXTRACT",
+        4
+      ],
+      [
+        "FILTER",
+        4
+      ],
+      [
+        "ANALYSIS",
+        4
+      ],
+      [
+        "SEPARATE",
+        4
+      ],
+      [
+        "CONCENTRATE",
+        4
+      ],
+      [
+        "SHEAR",
+        4
+      ],
+      [
+        "PRY",
+        3
+      ],
+      [
+        "PRYING_NAIL",
+        4
+      ],
+      [
+        "LOCKPICK",
+        4
+      ],
+
+      [
+        "GLARE",
+        4
+      ]
+    ]
+  }
+]
